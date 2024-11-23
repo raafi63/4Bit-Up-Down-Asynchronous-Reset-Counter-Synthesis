@@ -99,19 +99,19 @@ gui_show
 
 ### Synthesis RTL Schematic :
 
-![image](https://github.com/user-attachments/assets/329dc3a3-a8fc-45ef-95e1-2e21b9f191c6)
+![Screenshot 2024-11-22 225857](https://github.com/user-attachments/assets/dbb9c710-cb98-4579-9845-3112b94d4249)
 
 ### Area report:
 
-![image](https://github.com/user-attachments/assets/ff6a89ca-4d8b-451c-b74e-4effe9a29086)
+![Screenshot 2024-11-22 225929](https://github.com/user-attachments/assets/8ede62d7-c15f-4d8d-9407-9b6459711d9b)
 
 ### Power Report:
 
-![image](https://github.com/user-attachments/assets/dba83e65-56e6-4969-9f93-e9b5e0882b28)
+![Screenshot 2024-11-22 225946](https://github.com/user-attachments/assets/b03c2d3b-3698-4e44-98e7-821ba4a131a8)
 
 ### Timing Report: 
 
-![image](https://github.com/user-attachments/assets/92e6984d-db15-4e6b-9512-fabc8360147a)
+![Screenshot 2024-11-22 225959](https://github.com/user-attachments/assets/24f01538-edff-4637-ac50-01e9990e3ef6)
 
 ## Result: 
 
